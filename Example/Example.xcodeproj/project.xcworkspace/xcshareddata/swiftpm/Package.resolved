@@ -14,8 +14,8 @@
       "kind" : "remoteSourceControl",
       "location" : "https://github.com/AsyncCommunity/AsyncExtensions",
       "state" : {
-        "revision" : "e31495e79ebb25fdff5843ea1af26072e717c4c8",
-        "version" : "0.4.0"
+        "revision" : "c2b32caf189993285b5a782fe7cd658ed1fa9b9a",
+        "version" : "0.5.5"
       }
     },
     {
